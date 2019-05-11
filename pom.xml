@@ -42,7 +42,11 @@
             <artifactId>alipay-sdk-java</artifactId>
             <version>3.0.52.ALL</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <optional>true</optional>
+        </dependency>
         <!--<dependency>
             <groupId>com.alipay</groupId>
             <artifactId>alipay-trade-sdk</artifactId>
